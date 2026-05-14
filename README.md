@@ -12,7 +12,7 @@
 
 ## Overview
 
-This repository consolidates hands-on ML/AI experiments developed during a Postgraduate Certificate in Big Data Analytics (Lambton College, 2024–2025) and personal practice. Each case study follows a consistent template: problem framing, data exploration, baseline model, advanced model, evaluation, and business interpretation.
+This repository consolidates hands-on ML/AI experiments developed during a Postgraduate Certificate in Big Data Analytics and personal practice. Each case study follows a consistent template: problem framing, data exploration, baseline model, advanced model, evaluation, and business interpretation.
 
 **Why this matters:** Real-world ML deployment requires more than fitting a model — it requires understanding the data, communicating tradeoffs, and translating results into decisions. Each case study is structured to demonstrate that workflow.
 
